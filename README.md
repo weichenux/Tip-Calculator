@@ -11,3 +11,4 @@ Pre-work for the course "iOS for Designers"
 - Did NOT do the animation as I couldn't get it to work after 2 hours
 
 ### GIF walkthrough
+![Video Walkthrough](Prework_Tip.gif)
